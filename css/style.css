@@ -1,0 +1,68 @@
+.bg-1{
+	background-color: grey;
+
+}
+.bg-2{
+	background-color: black;
+	color:pink;
+}
+.bg-3{
+	background-color: orange;
+}
+.container-fluid{
+	
+}
+.bg-4{
+	background-color: grey;
+}
+span{
+	font-size: 2em;
+}
+.a h3,p{
+	font-size: 1.5em;
+}
+.a{
+	height: 15em;
+
+}
+.a img{
+	height: 15em;
+
+}
+.b img{
+	height: 13em;
+}
+.navbar{
+	font-size: 1.5em;
+}
+.footer{
+	background-color: pink;
+}
+.footer img{
+	height: 3em;
+}
+.grad img{
+	height: 4em;
+}
+.jumbotron{
+	padding: 0;
+	background-color:white;
+}
+.relative{
+	position:relative;
+	bottom:5em;
+	font-weight: bold;
+	color: blue;
+	display: none;
+	opacity: 1;
+}
+#whatido .col-md-4:hover img{
+	opacity: 0.5;
+	
+}#whatido .col-md-4:hover .relative{
+	display: block;
+	
+}
+.btn-group{
+	padding: 2em;
+}
